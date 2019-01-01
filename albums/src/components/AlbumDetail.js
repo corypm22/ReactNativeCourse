@@ -39,11 +39,12 @@ const styles = {
     justifyContent: 'space-around'
   },
   headerTextStyle: {
-    fontZise: 18
+    fontSize: 18
   },
   thumbnailStyle: {
     height: 50,
     width: 50
+
   },
   thumbnailContainerStyle:{
     justifyContent: 'center', 
